@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190973711463",
+    "project_id": "uasmobprog2",
+    "storage_bucket": "uasmobprog2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190973711463:android:703f7ee9a2d8c5e6cf30c2",
+        "android_client_info": {
+          "package_name": "com.example.dwxphotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190973711463-dk7hd0qkfuq4lcpre90tktipfo67dmpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIHzU_HILgTz7wqWr8szC0ojK-qGP94N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190973711463-dk7hd0qkfuq4lcpre90tktipfo67dmpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
